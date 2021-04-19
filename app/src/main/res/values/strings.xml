@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caculo Percentual</string>
+    <string name="digite_o_valor">Digite o valor</string>
+    <string name="calculo">Calculo</string>
+    <string name="valor">Valor</string>
+    <string name="total">Total</string>
+</resources>
